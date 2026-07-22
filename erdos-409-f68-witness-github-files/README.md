@@ -83,7 +83,7 @@ It does **not** resolve the broader questions concerning:
 - whether infinitely many integers reach the same terminal prime;
 - the density of integers reaching a fixed prime.
 
-I am not currently aware of a previously published \(F\ge68\) example. Novelty remains subject to literature search and community review.
+I am not currently aware of a previously published \(F\ge68\) example.
 
 ## Verification packet
 
@@ -114,13 +114,9 @@ The complete archive should be attached to the repository's first GitHub release
 
 ## AI assistance and authorship
 
-This result was produced through a substantially AI-assisted research workflow using OpenAI and Anthropic systems.
+This result was produced through an AI-assisted research workflow using OpenAI and Anthropic systems.
 
 The research target, governing protocol, iterative prompt design, verification requirements, cross-model review, and final publication decisions were directed by **Zackary Loevseth**.
-
-AI systems performed substantial parts of the search, code generation, computation, certificate production, and drafting.
-
-See [AI_USAGE.md](AI_USAGE.md) for the full disclosure.
 
 ## Citation
 
