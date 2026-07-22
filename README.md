@@ -93,7 +93,7 @@ It does **not** resolve the broader questions concerning:
 - whether infinitely many integers reach the same terminal prime;
 - the density of integers reaching a fixed prime.
 
-I am not currently aware of a previously published example with $F\ge68$. Novelty remains subject to literature search and community review.
+I am not currently aware of a previously published example with $F\ge68$. 
 
 ## Verification packet
 
