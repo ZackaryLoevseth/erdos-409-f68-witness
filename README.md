@@ -128,6 +128,14 @@ This result was produced through a substantially AI-assisted research workflow u
 
 The research target, governing protocol, iterative prompt design, verification requirements, cross-model review, and final publication decisions were directed by **Zackary Loevseth**.
 
+## Public record
+
+This witness was posted on the discussion page for
+[Erdős Problem #409](https://www.erdosproblems.com/409) on July 22, 2026.
+
+The site moderator described it as an example giving the largest known value
+of \(F(n)\).
+
 ## Citation
 
 T. F. Bloom, “Erdős Problem #409,”  
