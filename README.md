@@ -133,7 +133,7 @@ The research target, governing protocol, iterative prompt design, verification r
 This witness was posted on the discussion page for
 [Erdős Problem #409](https://www.erdosproblems.com/409) on July 22, 2026.
 
-The site moderator described it as an example giving the largest known value
+It is as an example giving the largest known value
 of \(F(n)\).
 
 ## Citation
